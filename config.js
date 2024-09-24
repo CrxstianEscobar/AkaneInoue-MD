@@ -10,8 +10,8 @@ import moment from 'moment-timezone'
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
 global.owner = [
-   ['50557865603', 'Niño Piña 💛', true],
-   ['50557865603', 'Crow Bot', true],
+   ['51927238856', 'Owner 🌙', true],
+   ['51965911060', 'Akane Inoue', true],
 ]
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
@@ -21,12 +21,12 @@ global.prems = []
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
-global.packname = '⪛✰ 𝗖𝗿𝗼𝘄 𝗕𝗼𝘁 - 𝗠𝗗 ✰⪜'
-global.botname = '𝗖𝗿𝗼𝘄 𝗕𝗼𝘁 - 𝗠𝗗'
-global.wm = '𝗡𝗶𝗻̃𝗼 𝗽𝗶𝗻̃𝗮 𝗯𝗼𝘁 - 𝗠𝗗'
-global.author = '𝗡𝗶𝗻̃𝗼 𝗽𝗶𝗻̃𝗮'
-global.dev = '𝗧𝗵𝗲𝗖𝗿𝗼𝘄𝗕𝗼𝘁'
-global.textbot = '𝗖𝗿𝗼𝘄 𝗯𝗼𝘁 : 𝗡𝗶𝗻̃𝗼 𝗽𝗶𝗻̃𝗮'
+global.packname = ''╭╼• ⏤͟͟͞͞ƁɑлɢLɪɢʜᴛs - Τeɑm\n┃\n┃ » 𝖨𝗇𝗌𝗍𝖺𝗀𝗋𝖺𝗆\n┃ @usxr.crxxs\n┃\n┃ » 𝖦𝗂𝗍𝖧𝗎𝖻:\n┃ CrxstianEscobar\n┃\n╰────╼ • ◆ • ╾────╯''
+global.botname = 'Akane Inoue - MD'
+global.wm = 'Akane Inoue - MD'
+global.author = 'ㅤㅤㅤㅤ👑\nㅤ  𝐀𝐤𝐚𝐧𝐞 𝐈𝐧𝐨𝐮𝐞\nㅤㅤ      𝐁𝐨𝐭\n\n✯᭄ 𝑩𝒚 𝑪𝒓𝒙𝒔𝒕𝒊𝒂𝒏 \n｡･ﾟ♡ﾟ｡･ﾟ･𝑬𝒔𝒄𝒐𝒃𝒂𝒓\n\n-•°○ ⊹ ִ ᣞ 🌙  ֺ   ֢֢ ｡ﾟ･'
+global.dev = 'AkaneInoue'
+global.textbot = 'Akane Bot : Cristian Escobar'
 global.vs = '1.1.3'
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
@@ -42,10 +42,10 @@ global.ianurl = fs.readFileSync('./storage/img/crowurl.jpg')
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
-global.grupo = 'https://chat.whatsapp.com/F0MiFkIWaQtLrZez9Xt2uu'
-global.grupo2 = 'https://chat.whatsapp.com/F0MiFkIWaQtLrZez9Xt2uu'
-global.grupo3 = 'https://chat.whatsapp.com/F0MiFkIWaQtLrZez9Xt2uu'
-global.channel = 'https://whatsapp.com/channel/0029VakfOZfHFxP7rNrUQk2d'
+global.grupo = 'https://chat.whatsapp.com/IEpwMOFY9d7IFbnxu4VnFo'
+global.grupo2 = 'https://chat.whatsapp.com/IEpwMOFY9d7IFbnxu4VnFo'
+global.grupo3 = 'https://chat.whatsapp.com/IEpwMOFY9d7IFbnxu4VnFo'
+global.channel = 'https://whatsapp.com/channel/0029Vafxnat8qIzxOjUrwP41'
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
