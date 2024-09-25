@@ -30,10 +30,10 @@ let tags = {
 const defaultMenu = {
   before: `*─ׄ─ׅ─⭒─ׄ─ׄ─⭒─ׅ─ׄ─⭒─ׄ─ׄ─⭒─ׄ─ׄ─*
 
-“ Hola *%name* soy *Crow*, %greeting ”
+“ Hola *%name* soy *Akane Inoue*, %greeting ”
 
 ┌───⊷ INFO - BOT
-┊  ☆ Cliente: %name
+┊  ☆ Usuario: %name
 ┊  ☆ Exp: %exp
 ┊  ☆ Estrellas: %estrellas
 ┊  ☆ Nivel: %level
@@ -41,8 +41,8 @@ const defaultMenu = {
 └─────────────
 %readmore
 ┌───⊷ INFO - USER
-┊  ☆ Bot: Crow Bot - MD 
-┊  ☆ Modo Público
+┊  ☆ Bot: Akane Inoue - MD 
+┊  ☆ Modo: Público
 ┊  ☆ Baileys: Multi Device
 ┊  ☆ Tiempo Activo: %muptime
 ┊  ☆ Usuarios: %totalreg 
