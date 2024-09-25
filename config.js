@@ -21,11 +21,11 @@ global.prems = []
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
-global.packname = '╭╼• ⏤͟͟͞͞ƁɑлɢLɪɢʜᴛs - Τeɑm\n┃\n┃ » 𝖨𝗇𝗌𝗍𝖺𝗀𝗋𝖺𝗆\n┃ @usxr.crxxs\n┃\n┃ » 𝖦𝗂𝗍𝖧𝗎𝖻:\n┃ CrxstianEscobar\n┃\n╰────╼ • ◆ • ╾────╯'
+global.packname = 'ㅤㅤㅤㅤ👑\nㅤ  𝐀𝐤𝐚𝐧𝐞 𝐈𝐧𝐨𝐮𝐞\nㅤㅤ      𝐁𝐨𝐭\n\n✯᭄ 𝑩𝒚 𝑪𝒓𝒙𝒔𝒕𝒊𝒂𝒏 \n｡･ﾟ♡ﾟ｡･ﾟ･𝑬𝒔𝒄𝒐𝒃𝒂𝒓\n\n-•°○ ⊹ ִ ᣞ 🌙  ֺ   ֢֢ ｡ﾟ･'
 global.botname = 'Akane Inoue - MD'
 global.wm = 'Akane Inoue - MD'
-global.author = 'ㅤㅤㅤㅤ👑\nㅤ  𝐀𝐤𝐚𝐧𝐞 𝐈𝐧𝐨𝐮𝐞\nㅤㅤ      𝐁𝐨𝐭\n\n✯᭄ 𝑩𝒚 𝑪𝒓𝒙𝒔𝒕𝒊𝒂𝒏 \n｡･ﾟ♡ﾟ｡･ﾟ･𝑬𝒔𝒄𝒐𝒃𝒂𝒓\n\n-•°○ ⊹ ִ ᣞ 🌙  ֺ   ֢֢ ｡ﾟ･'
-global.dev = 'AkaneInoue'
+global.author = '╭╼• ⏤͟͟͞͞ƁɑлɢLɪɢʜᴛs\n┃\n┃ » 𝖨𝗇𝗌𝗍𝖺𝗀𝗋𝖺𝗆\n┃ @usxr.crxxs\n┃\n┃ » 𝖦𝗂𝗍𝖧𝗎𝖻:\n┃ CrxstianEscobar\n┃\n╰────╼ • ◆ • ╾────╯'
+global.dev = 'Akane Inoue - MD'
 global.textbot = 'Akane Bot : Cristian Escobar'
 global.vs = '1.1.3'
 
